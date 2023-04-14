@@ -1,5 +1,5 @@
 /********************************************************************************************************
-*Task                       : 02
+*Task                           : 02
 *Programmer              	: Kolli Dhanus Datta
 *Program name           	: GuessNumber.java
 
