@@ -1,5 +1,5 @@
 /********************************************************************************************************
-*Task                           : 01
+*Task                           : 02
 *Programmer              	: Kolli Dhanus Datta
 *Program name           	: GuessNumber.java
 *Topics                  	: Fundamentals of java programming
